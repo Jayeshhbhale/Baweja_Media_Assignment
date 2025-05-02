@@ -13,6 +13,11 @@ This repository contains my submission for the assignment shared by Baweja Media
 ### 📂 File:
 - `api_task.py`
 
+### ▶ How to Run the Script:
+1. Make sure Python is installed on your system.
+2. Open a terminal or command prompt.
+3. Navigate to the folder where this file is saved.
+
 ## 📌 Task 2: SQL Queries
 
 ### ✔ What It Does:
